@@ -1,6 +1,5 @@
 #pragma once
 
-#include <stdio.h>
 
 // For use by Hazel applications
 
