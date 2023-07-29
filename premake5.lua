@@ -43,7 +43,8 @@ project "Hazel"
 	links
 	{
 		"GLFW",
-		"opengl32.lib"
+		"opengl32.lib",
+		"Dwmapi.lib"
 	}
 
 	filter "system:windows"
@@ -98,6 +99,7 @@ project "Sandbox"
 	{
 		"Hazel"
 	}
+
 
 	filter "system:windows"
 		cppdialect "C++17"
