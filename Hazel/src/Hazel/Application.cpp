@@ -3,7 +3,7 @@
 #include "Hazel/Log.h"
 #include "Hazel/Events/ApplicationEvent.h"
 
-#include <GLFW/glfw3.h>
+#include <Glad/glad.h>
 
 
 namespace Hazel {
