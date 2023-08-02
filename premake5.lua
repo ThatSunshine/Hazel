@@ -43,7 +43,7 @@ project "Hazel"
 		"%{prj.name}/vendor/spdlog/include",
 		"%{IncludeDir.GLFW}",
 		"%{IncludeDir.Glad}",
-		"%{IncludeDir.imgui}",
+		"%{IncludeDir.ImGui}",
 	}
 
 	links
